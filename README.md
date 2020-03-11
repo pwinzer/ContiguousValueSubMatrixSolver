@@ -3,7 +3,7 @@
 python contiguousSubMatrix.py
 
 or, from interpreter like ipython
-
+`
 In [1]: import contiguousSubMatrix
 
 In [2]: contiguousSubMatrix.solve()
@@ -67,3 +67,4 @@ Global Solution: {'i': 0, 'j': 0, 'n': 2, 'v': 1}
 **************************************************
 
 In [4]:          
+`
