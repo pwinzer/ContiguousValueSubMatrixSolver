@@ -74,9 +74,7 @@ def solve(matrix=None, size=25):
     print('*'*50)
     print(f"Global Solution: {global_solution}")
     print('*'*50)
-                                    
-        
-    
+
 def get_unique_values(matrix, H, L):
     s = set()
     for i in range(H):
@@ -128,7 +126,6 @@ def get_memos(v, matrix, H, L):
     return m, candidates
     '''
     return m, max_offset
-
 
 if __name__ == '__main__':
 	solve()
