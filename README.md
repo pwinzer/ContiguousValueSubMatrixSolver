@@ -1,1 +1,3 @@
 # ContiguousValueSubMatrixSolver
+
+python contiguousValueSubMatrixSolver.py
